@@ -16,6 +16,7 @@ public class MyComboBoxRenderer extends JLabel implements ListCellRenderer {
         setLayout(null);
         setForeground(Color.BLUE);
         setBackground(Color.BLACK);
+        setSize(30, 30);
     }
      
     @Override
