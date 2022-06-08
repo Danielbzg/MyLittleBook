@@ -1,0 +1,11 @@
+com\mycompany\mylittlebook\Logic\Logic.class
+com\mycompany\mylittlebook\Contenedores\User.class
+com\mycompany\mylittlebook\Contenedores\Copies_Book.class
+com\mycompany\mylittlebook\Logic\Conection.class
+com\mycompany\mylittlebook\Contenedores\BoardGame.class
+com\mycompany\mylittlebook\Logic\CreateDB.class
+com\mycompany\mylittlebook\Screens\Main$1.class
+com\mycompany\mylittlebook\Screens\Main.class
+com\mycompany\mylittlebook\Contenedores\Book.class
+com\mycompany\mylittlebook\Contenedores\Copies_BoardGame.class
+com\mycompany\mylittlebook\MyLittleBook.class
